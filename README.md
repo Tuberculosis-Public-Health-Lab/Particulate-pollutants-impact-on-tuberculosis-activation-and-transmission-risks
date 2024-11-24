@@ -6,7 +6,7 @@ In an effort to ensure transparency, reproducibility, and to foster collaborativ
 For those interested in academic inquiries or desiring further elaboration on our study, we kindly request that you correspond with the custodians of the data and R code. 
 Below, you will find the pertinent contact details for the principal investigator:
 
-Dr. Bilin Tao, Ph.D. in Epidemiology and Biostatistics, with a specialized focus on Environmental and Molecular Genetic Epidemiology.
+Bilin Tao, Ph.D. in Epidemiology and Biostatistics, with a specialized focus on Environmental and Molecular Genetic Epidemiology.
 
 Office Addresses:
 
