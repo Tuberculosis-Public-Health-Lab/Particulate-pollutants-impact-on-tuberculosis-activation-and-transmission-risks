@@ -20,7 +20,7 @@ Research Specialization:
 Dr. Tao holds a Ph.D. in Epidemiology and Biostatistics, with a specialized focus on Environmental and Molecular Genetic Epidemiology.
 
 Electronic Communication:
-bltao@smmu.edu.cn
+bltao@smmu.edu.cn; 
 411055654@qq.com
 
 ORCID Identifier:
