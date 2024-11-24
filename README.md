@@ -10,17 +10,13 @@ Dr. Bilin Tao
 
 Office Addresses:
 
-Department of Naval Medicine, Naval Medical University,
-800 Xiangyin Road, Shanghai 200433, People's Republic of China.
-Tel: +86-21-81871741
-Department of Epidemiology, Center for Global Health,
-School of Public Health, Nanjing Medical University,
-101 Longmian Road, Nanjing 211166, People's Republic of China.
-Research Specialization:
-Dr. Tao holds a Ph.D. in Epidemiology and Biostatistics, with a specialized focus on Environmental and Molecular Genetic Epidemiology.
+1. Department of Naval Medicine, Naval Medical University, 800 Xiangyin Road, Shanghai 200433, People's Republic of China. Tel: +86-21-81871741
+
+2. Department of Epidemiology, Center for Global Health, School of Public Health, Nanjing Medical University, 101 Longmian Road, Nanjing 211166, People's Republic of China.
+Research Specialization: Dr. Tao holds a Ph.D. in Epidemiology and Biostatistics, with a specialized focus on Environmental and Molecular Genetic Epidemiology.
 
 Electronic Communication:
-bltao@smmu.edu.cn; 
+bltao@smmu.edu.cn;  
 411055654@qq.com
 
 ORCID Identifier:
